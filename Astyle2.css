@@ -1,0 +1,14 @@
+.main{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container{
+    background-color: aliceblue;
+    height: 100vh
+}
